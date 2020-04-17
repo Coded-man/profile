@@ -43,23 +43,30 @@ h1{
 }
 
 .two{
-    width: 40%;
     border-radius: 20px;
     margin: 10px;
-
+    float: right;
 }
 
 .four{
     position: relative;
-    float: left;
+    float: right;
     background-color: white;
-    width: 30%;
-    margin: 10px;
-    padding-left: 10px;
+    width: 42%;
+    padding-left: 5px;
     border-radius: 30px;
     font-size: 14px;
 }
 
+.five{
+    position: relative;
+    float: left;
+    background-color: white;
+    width: 42%;
+    padding-left: 5px;
+    border-radius: 30px;
+    font-size: 14px;
+}
 
 form{
     text-align: justify;
