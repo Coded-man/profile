@@ -44,7 +44,7 @@ h1{
 
 .two{
     float: left;
-    max-width: 45%;
+    width: 40%;
     border-radius: 20px;
     margin: 20px;
 }
@@ -52,13 +52,14 @@ h1{
 .four{
     float: left;
     background-color: white;
-    width: 42%;
+    width: 40%;
     margin: 1%;
     padding-left: 5%;
     align-items: center;
     justify-content: center;
     text-align: justify;
     border-radius: 30px;
+    font-size: 14px;
 }
 
 
